@@ -1,0 +1,56 @@
+(2, 2, 1); (0, 4, 2); (1, 6, 2); (3, 6, 4); 
+Current time: 0
+Queue1:[]
+Queue2:[]
+Current time: 1
+Queue1:[]
+Queue2:[]
+Current time: 2
+Queue1:[(2, 2, 1); ]
+Queue2:[]
+Current time: 3
+Queue1:[]
+Queue2:[]
+Average Service Time is:2.25
+Waiting Time is:0.0
+Peak Hour is 0
+(3, 1, 1); (1, 4, 2); (2, 5, 4); (0, 6, 4); 
+Current time: 0
+Queue1:[]
+Queue2:[]
+Current time: 1
+Queue1:[(3, 1, 1); ]
+Queue2:[]
+Current time: 2
+Queue1:[]
+Queue2:[]
+Current time: 3
+Queue1:[]
+Queue2:[]
+Current time: 4
+Queue1:[(1, 4, 2); ]
+Queue2:[]
+Current time: 5
+Queue1:[(1, 4, 1); ]
+Queue2:[(2, 5, 4); ]
+Current time: 6
+Queue1:[(0, 6, 4); ]
+Queue2:[(2, 5, 3); ]
+Current time: 7
+Queue1:[(0, 6, 3); ]
+Queue2:[(2, 5, 2); ]
+Current time: 8
+Queue1:[(0, 6, 2); ]
+Queue2:[(2, 5, 1); ]
+Current time: 9
+Queue1:[(0, 6, 1); ]
+Queue2:[]
+Current time: 10
+Queue1:[]
+Queue2:[]
+Current time: 11
+Queue1:[]
+Queue2:[]
+Average Service Time is:2.75
+Waiting Time is:0.0
+Peak Hour is 6
