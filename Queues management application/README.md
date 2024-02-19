@@ -1,1 +1,1 @@
-# PT2023_30422_Cristian_Casian_Cristi_Assignment_2
+Implementation of a management system using queues, so that the time for clients orders is minimal by assigning them to queues
