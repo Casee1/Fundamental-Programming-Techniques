@@ -1,1 +1,1 @@
-# PT2023_30422_Casian_Cristian_Assignment_1
+Design of a polynomial calculator in which the user gives can make operations on two polynomials
